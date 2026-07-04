@@ -44,7 +44,7 @@ Many traditional fitness apps offer generic, "one-size-fits-all" routines that l
 The application follows a structured **MVC (Model-View-Controller)** approach:
 * **View (Presentation Layer):** Displays app screens (Profile, Workout, Diet, Progress) and captures user actions (taps, inputs).
 * **Controller (Business Layer):** Receives user inputs, validates them, runs the core app logic, and communicates with the data layer.
-* **Model (Data Layer + AI):** Stores all data centrally in Firebase. Uses logical processes to generate workout routines, calorie targets, and progress insights.
+* **Model (Data Layer + API):** Stores all data centrally in Firebase. Uses logical processes to generate workout routines, calorie targets, and progress insights.
 * **Service (Analysis & Coaching Layer):** Executes the core analysis logic to calculate daily calorie targets, analyze fitness data, and generate personalized workout.
 
 <img width="680" height="469" alt="Poster (1)" src="https://github.com/user-attachments/assets/c95e2a17-7acc-4c16-a49a-5ae258f88744" />
