@@ -1,6 +1,3 @@
-# Smash-Fit
-A comprehensive workout tracker designed to help you smash your fitness goals
-
 # Smash Fit 🏋️‍♂️📱
 **AI-Based Mobile Fitness and Workout Tracking Application**
 
