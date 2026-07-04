@@ -21,6 +21,19 @@ Many traditional fitness apps offer generic, "one-size-fits-all" routines that l
 3. **Diet Tracking:** Users can log their daily meals and track calorie intake.
 4. **Data-Driven Analysis:** The system automatically updates to show progress, insights, and continuous recommendations based on user performance.
 
+<img width="323" height="691" alt="Screenshot 2026-06-18 151823" src="https://github.com/user-attachments/assets/4b84360c-f40b-47cf-8ee9-e160514a3c29" />
+
+<img width="323" height="691" alt="Screenshot 2026-06-18 151322" src="https://github.com/user-attachments/assets/a3e10960-0299-4fc4-944d-dc71266076f1" />
+
+<img width="323" height="687" alt="Screenshot 2026-06-18 151747" src="https://github.com/user-attachments/assets/f6e1db75-d381-4ef7-930f-d9eccfe9e869" />
+
+<img width="329" height="687" alt="Screenshot 2026-06-18 151621" src="https://github.com/user-attachments/assets/a6b44351-84a6-45f6-9630-a4955a54bdb2" />
+
+<img width="326" height="693" alt="Screenshot 2026-06-22 234052" src="https://github.com/user-attachments/assets/4d78081a-d8dc-4b4e-8750-ab9cf0d18ec9" />
+
+<img width="328" height="702" alt="image" src="https://github.com/user-attachments/assets/276c2dc9-a924-44db-bfcb-4d401e26bf57" />
+
+
 ## 🛠️ Technology Stack
 * **Frontend:** Flutter (Dart)
 * **Backend:** Firebase (Backend-as-a-Service, serverless)
@@ -32,6 +45,9 @@ The application follows a structured **MVC (Model-View-Controller)** approach:
 * **View (Presentation Layer):** Displays app screens (Profile, Workout, Diet, Progress) and captures user actions (taps, inputs).
 * **Controller (Business Layer):** Receives user inputs, validates them, runs the core app logic, and communicates with the data layer.
 * **Model (Data Layer + AI):** Stores all data centrally in Firebase. Uses logical processes to generate workout routines, calorie targets, and progress insights.
+* **Service (Analysis & Coaching Layer):** Executes the core analysis logic to calculate daily calorie targets, analyze fitness data, and generate personalized workout.
+
+<img width="680" height="469" alt="Poster (1)" src="https://github.com/user-attachments/assets/c95e2a17-7acc-4c16-a49a-5ae258f88744" />
 
 ## 📈 Development Methodology (Waterfall)
 The project was developed using the Waterfall methodology:
@@ -40,19 +56,11 @@ The project was developed using the Waterfall methodology:
 3.  **Implementation/Development:** Built the mobile app integrating Flutter with Firebase.
 4.  **Testing:** Conducted functional testing for main features like authentication, workout generation, and data logging.
 
-## 🚀 Future Enhancements (What's Next?)
-* **Advanced Intelligent Techniques:** Implementing advanced Machine Learning (ML) for deeper workout personalization.
-* **Wearable Integration:** Connecting the app with smartwatches and smart rings to track live health metrics.
-
 ## 🎓 About the Project
-This project was developed for **PAMERKOM 2026 (Pita Project Exhibition)**.
+This project was developed for **FYP II (Final Year Project II)**.
 
-**Authors:** * Muhammad Faozan Zikry Bin Mohd Rizal
-* Farizah Binti Yunus
-
+**Authors:** 
+* Muhammad Faozan Zikry Bin Mohd Rizal
 **Institution:** Faculty of Computer Science and Mathematics, Universiti Malaysia Terengganu (UMT)
-
-**Contact:** s72424@ocean.umt.edu.my
-
 ---
 *Innovating ideas, Inspiring Futures.*
